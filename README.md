@@ -5,13 +5,13 @@ It includes user login and Admin Login - user have restrictions on delete and ei
 
 ------------------
 User Login
-user
-1553
+username: user
+password: 1553
 ------------------
 
 
 ------------------
 Admin Login
-Hassaan
-promax
+username: Hassaan
+password: promax
 ------------------
